@@ -1,0 +1,57 @@
+X - Fix The Graph error on front
+X - Remove that GSN from Scaffold and add default from OpenSea and Matic
+X - ADD ALL THE THING TO SHOW UP NICELLY ON OpenSea Base URL Description etc... probably the metadata for the contract
+X - add description and external URL (option) to create tab
+
+X - Set GAS PRICE 
+
+X - Remove xDai stuff
+X - Check Wallet
+
+X - Search Blockscount
+X - holding taking long to load new things
+X - where is the price of things?
+X - price on my assets has xDai symbol
+
+
+X Front Page equal squares
+
+
+
+X- Fix Help
+X- search Infura
+
+
+X  IPFS NODE on Digital Ocean
+X - My Assets and Holdings - equal squares
+X - ADD MATIC RAMP
+
+
+X - THE GRAPH - Like Weight
+
+Mainnet
+X x- Google Analytics - mainnet
+
+x - change Opensea and Blockchain explorer to Mainnet
+X - Get Matic Child Proxy address -> 0xA6FA4fB5f76172d178d61B04b0ecd319C5d1C0aa
+
+
+X - add mime type to metadata
+
+
+- remove console log - Mainnet
+
+--------
+
+X - Infinite Scrow
+- Loading image on Infinite Scrow
+- Sort by On Sale
+- Token
+X - RAMP
+X Add Description on View FIle - next version
+- Support olher types of MEDIA
+- Mainnet Smart Contract needs to have THING TO SHOW UP NICELLY ON OpenSea and BASE URI etc... like the above
+- Removed Send Ownership Holdings.js
+
+
+- Fix Mobile
